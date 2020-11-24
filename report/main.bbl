@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{BDPT}
+Yves D.~Willems Eric P.~Lafortune.
+\newblock Bi-directional path tracing.
+\newblock
+  \url{http://graphics.cs.kuleuven.be/publications/BDPT/BDPT_paper.pdf}.
+\newblock Accessed: 2017-05-04.
+
+\bibitem{renderingEquation}
+James~T. Kajiya.
+\newblock The rendering equation.
+\newblock In {\em ACM Siggraph Computer Graphics}, volume~20, pages 143--150.
+
+\bibitem{mollerTrumbore}
+T.~Möller and B.~Trumbore.
+\newblock Fast, minimum storage ray/triangle intersection.
+\newblock In {\em Journal of Graphics Tools}.
+
+\bibitem{scratchapixel}
+Scratchapixel.
+\newblock Global illumination and path tracing.
+\newblock
+  \url{https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing}.
+\newblock Accessed: 2017-05-12.
+
+\bibitem{randomPointSphere}
+Eric~W. Weisstein.
+\newblock Sphere point picking.
+\newblock From WolframMathWorld -
+  \url{http://mathworld.wolfram.com/SpherePointPicking.html}.
+\newblock Accessed: 2017-05-10.
+
+\end{thebibliography}

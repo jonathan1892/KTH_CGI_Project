@@ -1,0 +1,10 @@
+
+*.txt
+
+pathtracer_only/ThirdLab
+
+pathtracer_only/CMakeFiles/ThirdLab\.dir/
+
+*.ppm
+
+src/path

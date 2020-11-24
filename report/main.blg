@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: biblio.bib
+Warning--empty year in renderingEquation
+Warning--empty year in mollerTrumbore
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            526 strings with 4731 characters,
+and the built_in function-call counts, 1351 in all, are:
+= -- 126
+> -- 41
+< -- 2
++ -- 18
+- -- 12
+* -- 56
+:= -- 215
+add.period$ -- 18
+call.type$ -- 5
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 58
+empty$ -- 136
+format.name$ -- 12
+if$ -- 300
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 2
+newline$ -- 31
+num.names$ -- 10
+pop$ -- 49
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 42
+stack$ -- 0
+substring$ -- 54
+swap$ -- 17
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 2
+while$ -- 12
+width$ -- 6
+write$ -- 55
+(There were 2 warnings)
