@@ -13,7 +13,7 @@ The code can then be compiled by using the provided makefile (that is type `Make
 
 Ths section showcases an "eye-candy" result that can be found in the report. Please refer to that document for more results and a discussion regarding the behavior of the implemented pathtracer, as well as more details regarding the implementation.
 
-![first example of Cornell Box generated with the pathtracer](https://raw.githubusercontent.com/jojo38000/KTH_CGI_Proj/master/report/big_100000.png)
+![first example of Cornell Box generated with the pathtracer](/report/big_100000.png)
 
 
 # Report
